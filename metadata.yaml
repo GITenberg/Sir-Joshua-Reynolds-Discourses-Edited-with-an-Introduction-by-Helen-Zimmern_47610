@@ -1,0 +1,28 @@
+_repo: Sir-Joshua-Reynolds-Discourses-Edited-with-an-Introduction-by-Helen-Zimmern_47610
+contributor:
+  creator:
+    editor:
+      agent_name: Zimmern, Helen
+      birthdate: 1846
+      deathdate: 1934
+      gutenberg_agent_id: '1466'
+      url: http://www.gutenberg.org/2009/agents/1466
+      wikipedia: http://en.wikipedia.org/wiki/Helen_Zimmern
+creator:
+  author:
+    agent_name: Reynolds, Sir Joshua
+    gutenberg_agent_id: '44392'
+    url: http://www.gutenberg.org/2009/agents/44392
+description: ''
+gutenberg_issued: '2014-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Sir Joshua Reynolds'' Discourses
+
+  Edited, with an Introduction, by Helen Zimmern'
+url: http://www.gutenberg.org/ebooks/47610
