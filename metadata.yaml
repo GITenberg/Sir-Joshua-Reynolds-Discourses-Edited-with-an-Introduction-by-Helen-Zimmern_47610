@@ -1,4 +1,5 @@
 _repo: Sir-Joshua-Reynolds-Discourses-Edited-with-an-Introduction-by-Helen-Zimmern_47610
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,12 +9,17 @@ contributor:
       gutenberg_agent_id: '1466'
       url: http://www.gutenberg.org/2009/agents/1466
       wikipedia: http://en.wikipedia.org/wiki/Helen_Zimmern
+covers:
+- cover_type: archival
+  image_path: 47610-h/images/cover.jpg
 creator:
   author:
     agent_name: Reynolds, Sir Joshua
     gutenberg_agent_id: '44392'
     url: http://www.gutenberg.org/2009/agents/44392
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47610#Sir-Joshua-Reynolds-Discourses-Edited-with-an-Introduction-by-Helen-Zimmern
 gutenberg_issued: '2014-12-09'
 gutenberg_type: Text
 identifiers:
